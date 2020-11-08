@@ -86,6 +86,7 @@ https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931
 https://github.com/tonysun83/substrate-account-payouts
 
 ## 18) [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network
+https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
 
 https://youtu.be/HGmFCc_NE1s
 
